@@ -1,6 +1,7 @@
-**my favorite tools**
+# **my favorite tools**
+
 list of my favorite tools, websites, software, repos and whatever else.
----
+
 * [https://distrosea.com/](DistroSea) - Lets you test Linux distros without actually downloading them.
 * [https://linuxfromscratch.org/](LFS) - Make your own Linux.
 * [https://www.protondb.com/](ProtonDB) - See if Steam games work on Linux.
