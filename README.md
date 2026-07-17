@@ -16,7 +16,7 @@ list of my favorite tools, websites, software, repos and whatever else.
 * [PrivacyGuides](https://privacyguides.org/) - Community-ran directory dedicated to privacy alternatives to daily software.
 * [bat](https://github.com/sharkdp/bat) - 'cat' command but better.
 * [zoxide](https://github.com/ajeetdsouza/zoxide) - Better 'cd' command.
-* [McFly](https://github.com/cantino/mcfly) - Smarter histor search for your terminal.
+* [McFly](https://github.com/cantino/mcfly) - Smarter history search for your terminal.
 * [IT-Tools](https://it-tools.tech/) - Beautiful collection of web-based developer utilities.
 * [procs](https://github.com/dalance/procs) - Human readable 'ps' command.
 * [ModernUnix](https://github.com/ibraheemdev/modern-unix) - List of modern alternatives to Unix/Linux commands.
