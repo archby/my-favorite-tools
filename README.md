@@ -10,7 +10,7 @@ list of my favorite tools, websites, software, repos and whatever else.
 * [https://tldr.sh/](tldrpages) - Community driven man pages.
 * [https://alternativeto.net/](AlternativeTo) - Open-source alternatives to proprietary software.
 * [https://wiki.archlinux.org/](ArchWiki) - Even if you don't use Arch, it's one of the best documentation for Linux.
-* [https://github.com/nvbn/thefuck](The Fuck) - Amazing CLI tool that corrects errors in your previous console command when you type "fuck".
+* [https://github.com/nvbn/thefuck](TheFuck) - Amazing CLI tool that corrects errors in your previous console command when you type "fuck".
 * [https://github.com/jesseduffield/lazygit](Lazygit) - Simple TUI for git commands.
 * [https://cheat.sh/](cheat.sh) - Cheat sheet for any command.
 * [https://github.com/chubin/wttr.in](wttr.in) - TUI, ASCII weather service. Just run 'curl wttr.in'.
